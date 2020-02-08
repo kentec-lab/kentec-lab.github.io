@@ -1,0 +1,57 @@
+<!doctype html>
+<html>
+
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-139531674-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-139531674-1');
+    </script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description"
+        content="Hey there, I am Soon Khen Wong (Kent) - a simple man with a complex brain. Welcome to check out my online resume. Eager to explore new stuff and opportunities! ">
+    <title>Kent's Resume</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+    <script src="parallax.js"></script>
+</head>
+
+<body>
+    <div class="container">
+        <ul id="scene">
+            <li class="layer" data-depth="-0.8"><img id="earth" src="img/earth.png"></li>
+            <li class="layer" data-depth="0.5"><img id="mars" src="img/mars.png"></li>
+            <li class="layer" data-depth="-0.2"><img id="moon" src="img/moon.png"></li>
+            <li class="layer" data-depth="2"><img id="astronaut" src="img/astronaut.png"></li>
+            <li class="layer" data-depth="-1"><img id="rocket" src="img/rocket.png"></li>
+        </ul>
+        <div class="contact-form">
+            <h2 id="contact-header">Send me a message, <br> I'm open to opportunities! </h2><br>
+            <form id="contact-form" method="post" action="contact-form-handler.php">
+                <input name="name" type="text" class="form-control" placeholder="Your Name" required><br>
+                <input name="email" type="email" class="form-control" placeholder="Your Email" required><br>
+                <textarea name="message" class="form-control" placeholder="Message" rows="4" required></textarea><br>
+                <input type="submit" class="form-control submit" value="SEND MESSAGE">
+            </form>
+        </div>
+
+        <div class="jumping-previous">
+            <a href="resume.html"><img src="img/resume/previous.svg" alt="icon"></a>
+        </div>
+    </div>
+    <script>
+        var scene = document.getElementById('scene');
+        var parallax = new Parallax(scene);
+    </script>
+</body>
+<!--Credit: 
+        The Galaxy Background is downloaded from: https://www.freepik.com/free-vector/lovely-galaxy-background-with-flat-design_2859825.htm
+        The javascript for parallax effect is downloaded from: https://matthew.wagerfield.com/parallax/
+    -->
+
+</html>
