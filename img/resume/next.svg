@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="259.29166mm"
+   height="259.29166mm"
+   viewBox="0 0 259.29166 259.29166"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="next.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="645.71429"
+     inkscape:cy="524.28571"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(187.85417,-28.25893)">
+    <g
+       id="g819"
+       transform="matrix(0.26458333,0,0,0.26458333,-190.5,25.613097)">
+      <path
+         id="path817"
+         d="M 990,500 C 990,770.6 770.6,990 500,990 229.4,990 10,770.6 10,500 10,229.4 229.4,10 500,10 770.6,10 990,229.4 990,500 Z M 71.4,500 C 71.4,736.7 263.3,928.6 500,928.6 736.7,928.6 928.6,736.7 928.6,500 928.6,263.3 736.7,71.4 500,71.4 263.3,71.4 71.4,263.3 71.4,500 Z M 685.9,500 469.4,716.5 426.1,673.2 599.3,500 426.1,326.8 469.4,283.5 Z"
+         inkscape:connector-curvature="0" />
+    </g>
+    <path
+       style="fill:#333333;stroke-width:2.85714293"
+       d="M 416.77,973.0328 C 213.84668,941.41337 52.892943,788.21008 11.341715,587.12722 3.800629,550.63294 0.65866955,499.26671 3.307591,455.78162 16.414278,240.62029 178.58096,55.089836 391.45917,11.708016 588.55186,-28.456913 789.11671,55.514602 899.8806,224.5714 c 56.7448,86.60854 83.53666,191.28588 76.78403,300 C 964.1742,725.66234 822.0748,902.09528 626.867,958.8858 565.00906,976.88174 478.74797,982.69017 416.77,973.0328 Z M 565.71429,912.9406 C 653.81017,897.64188 739.12303,851.29677 802.53986,784.28811 959.49583,618.44245 958.41986,357.45722 800.10414,193.49554 736.08774,127.19613 665.152,87.921456 574.28571,68.467659 c -43.44754,-9.3018 -125.23405,-9.289492 -168.57142,0.02543 -42.09146,9.047066 -67.59226,17.9764 -107.14286,37.517041 -45.04776,22.25661 -79.99101,47.85243 -116.33447,85.21464 C 123.17831,251.93892 86.283074,321.73411 68.044669,407.24388 59.82118,445.79925 59.155392,525.55294 66.720952,565.80982 102.54913,756.45411 255.69146,897.37074 450,918.49088 c 21.70706,2.3594 88.65989,-0.85197 115.71429,-5.55023 z"
+       id="path829"
+       inkscape:connector-curvature="0"
+       transform="matrix(0.26458333,0,0,0.26458333,-187.85417,28.25893)" />
+    <path
+       style="fill:#333333;stroke-width:2.85714293"
+       d="m 438.54201,683.11317 -19.87617,-20.02966 86.37567,-86.41051 86.37568,-86.4105 -86.40761,-86.40762 -86.40762,-86.40761 20.70419,-20.7042 20.7042,-20.70419 L 567.14812,383.14809 674.2859,490.2573 567.87152,596.70005 c -58.52791,58.54352 -107.09814,106.44277 -107.93386,106.44277 -0.83572,0 -10.46376,-9.01334 -21.39565,-20.02965 z"
+       id="path831"
+       inkscape:connector-curvature="0"
+       transform="matrix(0.26458333,0,0,0.26458333,-187.85417,28.25893)" />
+  </g>
+</svg>
